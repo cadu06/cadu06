@@ -6,6 +6,7 @@
 [![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-s-lima-2347ab2b3)
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cadu06&theme=jolly&show_icons=true)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu06&layout=compact&hide_border=true&title_color=fff&text_color=ffff&bg_color=0d1117" />
 
 ## SKILLS
 
