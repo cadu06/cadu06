@@ -25,4 +25,4 @@
   <img aling="center" alt="GOOGLE CLOUD" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div><br />
 
-Apaixonado por tecnoligia, evolução e por mudar a vida das pessoas através da programação.
+Apaixonado por tecnologia, evolução e por mudar a vida das pessoas através da programação.
