@@ -1,14 +1,17 @@
-### Olá! Eu sou o Carlos Eduardo 🙃
+<h1 align="center"> Olá! Eu sou o Carlos Eduardo 🙃 </h1>
 
+###
+
+[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-s-lima-2347ab2b3)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](c3eslima@gmail.com)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_eduardo_t.i?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](c3eslima@gmail.com)
-[![LINKDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-s-lima-2347ab2b3)
+
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=cadu06&theme=jolly&show_icons=true)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadu06&layout=compact&hide_border=true&title_color=fff&text_color=ffff&bg_color=0d1117" />
 
-## SKILLS
+<h2> SKILLS </h2>
 
 <div style="display: inline_block"><br />
   <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,3 +28,9 @@
 </div><br />
 
 ### Apaixonado por tecnologia, evolução e por mudar a vida das pessoas através da programação.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake.svg">
+</picture>
