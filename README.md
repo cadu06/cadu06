@@ -27,10 +27,10 @@
   <img aling="center" alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br />
 
-### Apaixonado por tecnologia, evolução e por mudar a vida das pessoas através da programação.
+<h3> Apaixonado por tecnologia, evolução e por mudar a vida das pessoas através da programação. </h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cadu06/cadu06/output/github-contribution-grid-snake.svg">
-</picture>
+###
+
+https://github.com/cadu06/cadu06/blob/output/github-contribution-grid-snake.gif
+
+![snake gif](https://github.com/cadu06/cadu06/blob/output/github-contribution-grid-snake.gif)
